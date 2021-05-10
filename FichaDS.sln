@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FichaDS", "FichaDS\FichaDS.csproj", "{F39E4DD4-853D-4958-AD12-48EFB3348E0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FichaDS.Modelos", "FichaDS.Modelos\FichaDS.Modelos.csproj", "{37F39EF8-AE18-4C18-8822-02B704535532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F39E4DD4-853D-4958-AD12-48EFB3348E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39E4DD4-853D-4958-AD12-48EFB3348E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39E4DD4-853D-4958-AD12-48EFB3348E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39E4DD4-853D-4958-AD12-48EFB3348E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F39EF8-AE18-4C18-8822-02B704535532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F39EF8-AE18-4C18-8822-02B704535532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F39EF8-AE18-4C18-8822-02B704535532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F39EF8-AE18-4C18-8822-02B704535532}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9ECF935-3508-4AED-B11C-DEA06CAF3F37}
+	EndGlobalSection
+EndGlobal
