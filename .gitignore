@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+ConsultaArmamentos.sql
+FichaDS.Modelos/Infra/Data/Connection.cs
+FichaDS.Modelos/Infra/Data/MasterPassword.cs
